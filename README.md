@@ -4,7 +4,7 @@ This is UniswapV2 fork - Deployed on Filecoin FEVM protocol for decentralized ex
 
 - Website: [uniswap.io](https://uniswap.io/)
 
-### Please NOTE this Project is a Hackathon build for experiment on Filecoin FEVM - NOT FOR REAL ASSETS
+### Please NOTE this Project is a Hackathon build for experiment on Filecoin FEVM - NOT FOR REAL ASSETS UITILIZATION
 
 ### Project mission
 
